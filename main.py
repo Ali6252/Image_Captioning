@@ -66,7 +66,7 @@ def read_image():
 if __name__=="__main__":
 
     st.title("Image Captioning")
-    st.write("This Model is Trained on flickr8k images please dont upload any other images and except the exact result you can epect approimate reults please be generous")
+    st.write("This Model is Trained on flickr8k images please dont upload any other images and except the exact result you can expect approimate reults please be generous")
     st.write("please find the dataset of images from below link")
     url="https://www.kaggle.com/datasets/adityajn105/flickr8k"
     st.write(url)
