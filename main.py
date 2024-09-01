@@ -74,4 +74,4 @@ if __name__=="__main__":
     idx_to_word = json.load(f)
     max_length = 34  # thi we get from training data max length of sentence
 
-    #read_image()
+    read_image()
